@@ -6,3 +6,7 @@ Para poder ejecutar este proyecto después de clonarlo, debes ejecutar la siguie
 ```
 pip install -r requirements.txt
 ```
+Una vez hecho esto, para que convierta el Excel de Cms a Pulgadas, debemos ejecutar en consola:
+```
+python programa_conversor.py
+```
